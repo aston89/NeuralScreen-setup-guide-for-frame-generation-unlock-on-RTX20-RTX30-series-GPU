@@ -96,8 +96,6 @@ runtime_redirect: selected_source=bundled
 
 These entries confirm that the SM86 backend, matching runtime and Ampere kernel pack have been loaded inside NeuralScreen's worker.
 
-**Important test status:** The current diagnostic log still reports `0xBAD00012` at the NGX feature-requirements check, before `CreateFeature`. That is the remaining integration point to investigate.
-
 ### Hardware requirements
 
 - NVIDIA RTX 20 / 30 / 40 / 50.
