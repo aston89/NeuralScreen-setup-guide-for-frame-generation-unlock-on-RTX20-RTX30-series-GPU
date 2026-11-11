@@ -101,7 +101,7 @@ These entries confirm that the SM86 backend, matching runtime and Ampere kernel 
 - NVIDIA RTX 20 / 30 / 40 / 50.
 - Windows 10/11 x64.
 - NVIDIA driver R580 or newer.
-- Hardware-accelerated GPU scheduling enabled.
+- Hardware-accelerated GPU scheduling enabled (HAGS).
 
 **References:**
 - [NeuralScreen](https://github.com/perseval-BLR/NeuralScreen)
