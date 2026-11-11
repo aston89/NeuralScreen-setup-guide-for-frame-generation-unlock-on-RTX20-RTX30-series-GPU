@@ -1,5 +1,6 @@
-## Complete setup guide RTX20 (SM75) and RTX30 (SM86)
-
+## Complete setup guide for RTX20 (SM75) and RTX30 (SM86)
+This tutorial will enable frame generation and faster neural rendering for your gpu.
+Nvidia said frame generation was unsupported on older cards while at the same time shipped the dll with all the needed and functioning kernels already implemented and perfectly working, if you want to dig more, read this article [SM86 technical background](https://dnim.dev/blog/dlssg-open-ampere-proton)
 
 ### 1. Install NeuralScreen
 
